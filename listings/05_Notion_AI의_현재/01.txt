@@ -1,0 +1,8 @@
+Auto                       ← 기본값. "Balances speed, effort, and cost."
+For your hardest tasks
+  Opus 5                   (Anthropic)
+  GPT-5.6 Sol              (OpenAI)
+  Kimi K3                  (Moonshot)
+Claude
+  Sonnet 5                 (Anthropic)
+  …

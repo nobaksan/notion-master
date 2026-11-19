@@ -1,0 +1,6 @@
+Method:  PATCH
+URL:     https://api.notion.com/v1/blocks/{{ $json.blockId }}
+Body:
+{
+  "heading_3": { "is_toggleable": true }
+}

@@ -1,0 +1,2 @@
+joinedTeams : 7건  (owner 1 · member 6)
+otherTeams  : 10건 (none) + hasMore: true

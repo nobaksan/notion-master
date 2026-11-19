@@ -1,0 +1,19 @@
+# .github/workflows/brief.yml
+name: 일간 브리핑
+on:
+  schedule:
+    - cron: "0 0 * * 1-5"   # UTC 00:00 = KST 09:00, 평일
+  workflow_dispatch:
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: npm ci
+      - run: node brief.mjs
+        env:
+          NOTION_TOKEN:        ${{ secrets.NOTION_TOKEN }}
+          NOTION_DS_업무:       ${{ secrets.NOTION_DS_TASKS }}
+          NOTION_PAGE_브리핑:   ${{ secrets.NOTION_PAGE_BRIEF }}

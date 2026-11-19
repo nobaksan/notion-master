@@ -1,0 +1,1 @@
+This agent contains resources that are not accessible by any editors of the agent.

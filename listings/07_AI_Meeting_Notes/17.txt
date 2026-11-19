@@ -1,0 +1,1 @@
+Automatic transcript deletion   Runs daily at 오후 8:00 GMT+9   [Never]

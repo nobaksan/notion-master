@@ -1,0 +1,1 @@
+status · credits_used · tool_call_count · tool_types · runs_completed · message_count

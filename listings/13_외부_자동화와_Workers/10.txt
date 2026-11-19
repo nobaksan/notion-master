@@ -1,0 +1,3 @@
+HTTP/2 401
+www-authenticate: Bearer realm="n8n MCP Server",
+  resource_metadata="https://<인스턴스>/.well-known/oauth-protected-resource/mcp-server/http"

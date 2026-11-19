@@ -1,0 +1,1 @@
+Settings → Developer → Enable developer features

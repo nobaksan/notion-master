@@ -1,0 +1,6 @@
+Thanks for trying out the AI Meeting Notes feature!
+From what I can see, it looks like this was a very brief recording or test run
+- the transcript appears to be empty or minimal.
+
+## 💡 Tip for Better Results
+To help you get the most out of this feature, try recording for a bit longer next time!

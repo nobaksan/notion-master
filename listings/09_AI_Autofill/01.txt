@@ -1,0 +1,6 @@
+Basic
+  Not available for this property type
+
+Custom Agent  [New]
+  Uses advanced models to fill properties based on web search
+  and your connected workspace.

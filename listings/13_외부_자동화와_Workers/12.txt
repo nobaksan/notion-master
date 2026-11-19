@@ -1,0 +1,3 @@
+열 이름 "상태"           → Invalid
+열 이름 "review entered" → Invalid
+열 이름 "review_entered" → 생성 성공

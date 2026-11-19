@@ -1,0 +1,4 @@
+{ "filter": { "operator": "and", "filters": [
+    { "property": "created_time",
+      "filter": { "operator": "date_is_within",
+                  "value": { "type": "relative", "value": "the_past_week" } } } ] } }

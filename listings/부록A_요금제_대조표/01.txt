@@ -1,0 +1,2 @@
+STACK BY "상태"                            → 400 Unknown directive: "STACK"
+CHART bar AGGREGATE count STACK BY "상태"   → 200

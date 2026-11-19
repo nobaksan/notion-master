@@ -1,0 +1,2 @@
+REST API   { "type": "unique_id", "unique_id": { "prefix": "TASK", "number": 1 } }
+MCP SQL    "번호" INTEGER   →  1

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "n8n": {
+      "type": "http",
+      "url": "https://<당신의-인스턴스>.app.n8n.cloud/mcp-server/http",
+      "headers": { "Authorization": "Bearer <액세스 토큰>" }
+    }
+  }
+}

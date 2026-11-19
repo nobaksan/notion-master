@@ -1,0 +1,4 @@
+PATCH /v1/data_sources/{데이터소스ID}
+{"properties":{"상태":{"status":{"options":[
+  {"name":"대기","color":"gray"},  {"name":"진행","color":"blue"},
+  {"name":"검토","color":"yellow"},{"name":"완료","color":"green"}]}}}}

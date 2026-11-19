@@ -1,0 +1,2 @@
+https://developers.notion.com/page/changelog
+https://developers.notion.com/llms.txt

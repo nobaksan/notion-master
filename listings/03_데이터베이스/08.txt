@@ -1,0 +1,4 @@
+length(filter(prop("담당 업무"), current.prop("상태") != "완료"))
+prop("담당 업무").filter(current.prop("상태") != "완료").length()
+prop("담당 업무").filter(current.prop("상태").name() != "완료").length()
+→ 400  Type error with formula

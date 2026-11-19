@@ -1,0 +1,3 @@
+"date:마감:start"       TEXT     ISO-8601 날짜 또는 일시
+"date:마감:end"         TEXT     범위가 아니면 NULL
+"date:마감:is_datetime" INTEGER  1이면 일시, 0이면 날짜

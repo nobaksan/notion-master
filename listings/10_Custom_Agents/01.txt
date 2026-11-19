@@ -1,0 +1,4 @@
+403 restricted_resource
+This connection does not have the 'interact with agents' capability.
+For Notion MCP, disconnect and reconnect Notion to grant it.
+For integrations, enable the capability in the integration's settings and re-authorize.

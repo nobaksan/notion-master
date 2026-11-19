@@ -1,0 +1,4 @@
+{
+  "code": "validation_error",
+  "message": "Databases with multiple data sources are not supported in this API version."
+}

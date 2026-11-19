@@ -1,0 +1,4 @@
+PATCH /v1/data_sources/{데이터소스ID}
+{"properties":{"상태":{"status":{"groups":[
+  {"id":"<진행 중 그룹 ID>","option_ids":["<진행>","<검토>"]}]}}}}
+→ 200 OK 응답 반환, 그러나 실제 데이터 조회 시 변경 사항 없음

@@ -1,0 +1,2 @@
+Enforce consent for all workspace members       [꺼짐]
+Auto play consent message on start (개인 설정)   [켜짐]

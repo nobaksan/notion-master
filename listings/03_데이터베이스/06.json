@@ -1,0 +1,3 @@
+"검토자": { "dataSourceUrl": "collection://...", "type": "relation" }
+"담당자": { "dataSourceUrl": "collection://...", "type": "relation",
+           "propertyUrl": "collectionProperty://.../ez1bVg" }

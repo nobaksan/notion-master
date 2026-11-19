@@ -1,0 +1,5 @@
+workflow:read   workflow:write   workflow:execute   execution:read
+agent:read      agent:write      agent:execute
+credential:read
+dataTable:read  dataTable:write
+project:read    project:write    tag:read

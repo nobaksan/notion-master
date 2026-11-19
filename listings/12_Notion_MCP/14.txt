@@ -1,0 +1,2 @@
+SELECT "이름", "업무 수" FROM "collection://..."
+→ 400 Failed to execute query: no such column: "업무 수"

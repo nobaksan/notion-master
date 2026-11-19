@@ -1,0 +1,8 @@
+Method:  PATCH
+URL:     https://api.notion.com/v1/pages/{{ $json.pageId }}
+Body:
+{
+  "properties": {
+    "파생 업무": { "relation": [{ "id": "{{ $json.targetId }}" }] }
+  }
+}

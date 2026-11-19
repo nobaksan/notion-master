@@ -1,0 +1,8 @@
+position: { after: "id" }
+→ body.position.type should be defined, instead was `undefined`.
+
+position: { type: "after", after: "id" }
+→ body.position.type should be `"after_block"`, `"start"`, or `"end"`, instead was `"after"`.
+
+position: { type: "after_block", after_block: "id" }
+→ body.position.after_block should be an object, instead was `"3cfc2a78-..."`.

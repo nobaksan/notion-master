@@ -1,0 +1,2 @@
+request_agent_limit_increase   ← 아직 신청하지 않은 상태
+request_pending                ← 신청 후 관리자 승인을 기다리는 상태

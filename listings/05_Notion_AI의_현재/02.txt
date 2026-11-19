@@ -1,0 +1,6 @@
+403 agent_credit_limit_reached
+This Custom Agent has reached its monthly credit limit and can't start a new turn.
+
+tool_error_class:   entitlement_required
+tool_error_retryable: false
+recovery_kind:      request_agent_limit_increase
